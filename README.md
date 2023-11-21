@@ -1,2 +1,2 @@
-# About_C
-C++ dan sejenisnya
+# Modul About C++
+Happy Learning!
